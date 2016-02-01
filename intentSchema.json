@@ -1,0 +1,17 @@
+{
+"intents": 
+	[
+		{
+			"intent": "getMovie",
+			"slots": [
+              	
+                  {
+                    "name" : "Text",
+                    "type" : "LIST_TEXT"
+                  }
+			]
+		}
+      ]
+}
+
+

@@ -1,0 +1,2 @@
+LIST_KEYWORDS	movie
+LIST_TEXT	hello | some may think it is a test | I think it is pure genius
